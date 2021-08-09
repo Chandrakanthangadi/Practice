@@ -1,4 +1,4 @@
-a='chandrakanth'
+a='chandrakantha'
 count=0
 for i in a:
     count+=1
